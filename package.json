@@ -1,0 +1,23 @@
+{
+  "name": "adopt-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabeyamartino/adopt-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabeyamartino/adopt-me/issues"
+  },
+  "homepage": "https://github.com/gabeyamartino/adopt-me#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
